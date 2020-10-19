@@ -2,6 +2,7 @@
 ## Implementácia serveru na preklad doménových mien
 ##### **Autor:** Magdaléna Ondrušková <xondru16@stud.fit.vutbr.cz>
 ##### **Jazyk:** Python
+##### **Hodnotenie:** 16/20b
 
 Popis vypracovania:
 Vytvorenie serveru za použitia knižnice `socket`. Server podporuje dve operácie: GET a POST. 
